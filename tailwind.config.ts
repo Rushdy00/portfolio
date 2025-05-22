@@ -29,9 +29,9 @@ const config = {
       colors: {
         black: {
           DEFAULT: "#000",
-          100: "#000319",
-          200: "rgba(17, 25, 40, 0.75)",
-          300: "rgba(255, 255, 255, 0.125)",
+          100: "	#0A0A0A	",
+          200: "rgb(0, 0, 0)",
+          300: "rgba(0, 0, 0, 0.13)",
         },
         white: {
           DEFAULT: "#FFF",
@@ -39,7 +39,7 @@ const config = {
           200: "#C1C2D3",
         },
         blue: {
-          "100": "#E4ECFF",
+          "100": "	#1B1B1B",
         },
         purple: "#CBACF9",
         border: "hsl(var(--border))",
